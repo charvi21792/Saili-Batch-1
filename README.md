@@ -1,3 +1,9 @@
+I have used local APIs in this application. Hence the application won't work if my system is not connected. You can ping me on teams whenever you are testing the app. Also, while executing the application, you will have to do few changes. The apiUrl value(in EmployeeActions.js and GetEmployee.js) needs to be changed once my system is connected.
+
+I know it's a bit hectic, but I wanted to use APIs with react js as I am planning to build an application for my project. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
